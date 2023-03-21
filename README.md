@@ -1,9 +1,7 @@
 <h1 align="center">Hola soy ByRuby12</h1>
 <h3 align="center">A continuación os mostraré lo que soy capaz:</h3>
 
-<p align="left"> <img src="https ://komarev.com/ghpvc/?username=byruby12&label=Profile%20views&color=0e75b6&style=flat" alt="byruby12" /> </p> <h3
-
-align="left">Conéctate conmigo:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 < p align="left">
 <a href="https://twitter.com/byruby12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/ github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="byruby12" height="30" width="40" /></a>
 <a href="https://instagram.com/byruby12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="byruby12" height="30" width="40" /></a>
