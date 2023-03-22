@@ -6,7 +6,7 @@
 
 ### Aparte de este hobby que tengo, me dedico a programar en todo tipo de lenguajes como HTML, CSS, JS, JAVA y SQL. También soy diseñador gráfico desde hace más de 4 años en PhotoShop y como último soy técnico en sistemas informáticos (Básicamente, todo lo relacionado con la informática, es lo que me apasiona en este mundillo).
 
-#### Espero que os guste todos mis repositorios de GitHub, os dejo por aqui todas mis redes sociales aquí abajo y cualquier cualquier cosa que necesiteis estoy por aquí. 
+#### Espero que os guste todos los repositorios de GitHub, os dejo por aqui todas mis redes sociales aquí abajo y cualquier cualquier cosa que necesiteis estoy por aquí. 
 #### Un saludo
 
 ![Canal Principal](imagen2.jpg) ![Canal Secundario](imagen3.jpg) ![Instagram](imagen3.jpg) ![Twitter](imagen3.jpg) ![TikTok](imagen3.jpg)
