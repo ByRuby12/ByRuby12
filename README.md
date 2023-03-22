@@ -1,6 +1,6 @@
 # ByRuby12 - Creador de contenido de videojuegos y diseñador de aplicaciones web
 
-![imagenes/banner.png]()
+![Portada](imagenes/banner.png)
 
 ### Hola, soy ByRuby12, un creador de contenido de videojuegos que sube videos y directos a las redes sociales para pasárselo bien y compartirlo con la audiencia. Llevo haciendo todo tipo de contenido desde hace 5 años desde la plataforma de YouTube y después de unos años me desplace a más redes sociales como Instagram, Twitter, TikTok y Twitch.
 
