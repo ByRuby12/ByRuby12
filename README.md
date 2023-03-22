@@ -8,4 +8,5 @@
 
 #### Espero que os guste todos mis repositorios de GitHub, os dejo por aqui todas mis redes sociales.
 
-![Imagen de muestra 1](imagen2.jpg) ![Imagen de muestra 2](imagen3.jpg) ![Imagen de muestra 2](imagen3.jpg)
+![Canal Principal](imagen2.jpg) ![Canal Secundario](imagen3.jpg) ![Instagram](imagen3.jpg) ![Twitter](imagen3.jpg) ![TikTok](imagen3.jpg)
+![Twitch](imagen3.jpg) ![Contacto](imagen3.jpg) ![PayPal](imagen3.jpg) ![Discord](imagen3.jpg)
