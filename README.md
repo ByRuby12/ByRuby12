@@ -11,3 +11,5 @@
 ![Canal Principal](imagen2.jpg) ![Canal Secundario](imagen3.jpg) ![Instagram](imagen3.jpg) ![Twitter](imagen3.jpg) ![TikTok](imagen3.jpg)
 
 ![Twitch](imagen3.jpg) ![Contacto](imagen3.jpg) ![PayPal](imagen3.jpg) ![Discord](imagen3.jpg)
+
+Sígueme en [Instagram](https://www.instagram.com/tuusuario/) para ver más contenido.
