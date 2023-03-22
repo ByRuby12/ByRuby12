@@ -8,6 +8,4 @@
 
 #### Espero que os guste todos mis repositorios de GitHub, os dejo por aqui todas mis redes sociales.
 
-![Imagen de muestra 1](imagen2.jpg)
-
-![Imagen de muestra 2](imagen3.jpg)
+![Imagen de muestra 1](imagen2.jpg) ![Imagen de muestra 2](imagen3.jpg) ![Imagen de muestra 2](imagen3.jpg)
