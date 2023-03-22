@@ -1,4 +1,4 @@
-# ByRuby12 - Creador de contenido de videojuegos
+# ByRuby12 - Creador de contenido de videojuegos y diseñador de aplicaciones web
 
 ![Imagen de portada](imagenes/banner.png)
 
