@@ -9,8 +9,6 @@
 #### Espero que os guste todos los repositorios de GitHub, os dejo por aqui todas mis redes sociales aquí abajo y cualquier cualquier cosa que necesiteis estoy por aquí. 
 #### Un saludo
 
-![Canal Principal](imagenes/panel_youtube.png) ![Canal Secundario](imagen3.jpg) ![Instagram](imagen3.jpg) ![Twitter](imagen3.jpg) ![TikTok](imagen3.jpg)
-
-![Twitch](imagen3.jpg) ![Contacto](imagen3.jpg) ![PayPal](imagen3.jpg) ![Discord](imagen3.jpg) ![WebSite](imagen3.jpg)
-
-<img src="imagenes/panel_youtube.png" alt="Texto alternativo de la imagen" width="300" height="300">
+![Canal Principal](imagenes/panel_youtube.png) ![Canal Secundario](imagenes/panel_youtube.png) ![Instagram](imagenes/panel_instagram.png) 
+![Twitter](imagenes/panel_twitter.png) ![TikTok](imagenes/panel_tiktok.png) ![Twitch](imagenes/panel_twitch.png) ![Contacto](imagenes/panel_contacto.png) 
+![PayPal](imagenes/panel_paypal.png) ![Discord](imagenes/panel_discord.png) ![WebSite](imagenes/panel_website.png)
