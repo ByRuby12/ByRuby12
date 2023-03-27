@@ -7,7 +7,6 @@
 ### Aparte de este hobby que tengo, me dedico a programar en todo tipo de lenguajes como HTML, CSS, JS, JAVA y SQL. También soy diseñador gráfico desde hace más de 4 años en PhotoShop y como último soy técnico en sistemas informáticos (Básicamente, todo lo relacionado con la informática, es lo que me apasiona en este mundillo).
 
 #### Espero que os guste todos los repositorios de GitHub, os dejo por aqui todas mis redes sociales aquí abajo y cualquier cualquier cosa que necesiteis estoy por aquí. 
-#### Un saludo
 
 <a href="https://www.youtube.com/@ByRuby12"> <img width="490" height="208" src="imagenes/panel_youtube.png" alt="Canal Principal"></a> <a href="https://youtube.com/@ByRuby12EXTRA"> <img width="490" height="208" src="imagenes/panel_youtube.png" alt="Canal Secundario"></a>
 
