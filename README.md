@@ -9,13 +9,13 @@
 #### Espero que os guste todos los repositorios de GitHub, os dejo por aqui todas mis redes sociales aquí abajo y cualquier cualquier cosa que necesiteis estoy por aquí. 
 #### Un saludo
 
-![Canal Principal](imagenes/panel_youtube.png) <a href="https://www.youtube.com/@ByRuby12"><img src="imagenes/panel_youtube.png" alt="YouTube"></a>
-![Canal Secundario](imagenes/panel_youtube.png) 
-![Instagram](imagenes/panel_instagram.png) 
-![Twitter](imagenes/panel_twitter.png) 
-![TikTok](imagenes/panel_tiktok.png)
-![Twitch](imagenes/panel_twitch.png) 
-![Contacto](imagenes/panel_gmail.png) 
-![https://www.paypal.me/Byruby12](imagenes/panel_paypal.png) 
-![Discord](imagenes/panel_discord.png) 
-![WebSite](imagenes/panel_website.png)
+<a href="https://www.youtube.com/@ByRuby12"> <img src="imagenes/panel_youtube.png" alt="Canal Principal"></a>
+<a href="https://youtube.com/@ByRuby12EXTRA"> <img src="imagenes/panel_youtube.png" alt="Canal Secundario"></a>
+<a href="https://instagram.com/ByRuby12"> <img src="imagenes/panel_instagram.png" alt="Instagram"></a>
+<a href="https://twitter.com/byruby12"> <img src="imagenes/panel_twitter.png" alt="Twitter"></a>
+<a href="http://vm.tiktok.com/byruby12"> <img src="imagenes/panel_twitch.png" alt="TikTok"></a>
+<a href="https://twitch.com/byruby12_official"> <img src="imagenes/panel_twitch.png" alt="Twitch"></a>
+<a href="mailto:byruby12.contacto@gmail.com"> <img src="imagenes/panel_gmail.png" alt="Contacto"></a>
+<a href="https://www.paypal.me/Byruby12"> <img src="imagenes/panel_paypal.png" alt="PayPal"></a>
+<a href="https://www.youtube.com/@ByRuby12"> <img src="imagenes/panel_discord.png" alt="Discord"></a>
+<a href="https://comunidad-byruby12.jimdosite.com"> <img src="imagenes/panel_website.png" alt="WebSite"></a>
