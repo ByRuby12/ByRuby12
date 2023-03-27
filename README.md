@@ -9,6 +9,13 @@
 #### Espero que os guste todos los repositorios de GitHub, os dejo por aqui todas mis redes sociales aquí abajo y cualquier cualquier cosa que necesiteis estoy por aquí. 
 #### Un saludo
 
-![Canal Principal](imagenes/panel_youtube.png) ![Canal Secundario](imagenes/panel_youtube.png) ![Instagram](imagenes/panel_instagram.png) 
-![Twitter](imagenes/panel_twitter.png) ![TikTok](imagenes/panel_tiktok.png) ![Twitch](imagenes/panel_twitch.png) ![Contacto](imagenes/panel_gmail.png) 
-![https://www.paypal.me/Byruby12](imagenes/panel_paypal.png) ![Discord](imagenes/panel_discord.png) ![WebSite](imagenes/panel_website.png)
+![Canal Principal](imagenes/panel_youtube.png) <a href="https://www.youtube.com/@ByRuby12"><img src="imagenes/panel_youtube.png" alt="YouTube"></a>
+![Canal Secundario](imagenes/panel_youtube.png) 
+![Instagram](imagenes/panel_instagram.png) 
+![Twitter](imagenes/panel_twitter.png) 
+![TikTok](imagenes/panel_tiktok.png)
+![Twitch](imagenes/panel_twitch.png) 
+![Contacto](imagenes/panel_gmail.png) 
+![https://www.paypal.me/Byruby12](imagenes/panel_paypal.png) 
+![Discord](imagenes/panel_discord.png) 
+![WebSite](imagenes/panel_website.png)
