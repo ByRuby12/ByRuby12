@@ -9,7 +9,7 @@
 #### Espero que os guste todos los repositorios de GitHub, os dejo por aqui todas mis redes sociales aquí abajo y cualquier cualquier cosa que necesiteis estoy por aquí. 
 #### Un saludo
 
-<a href="https://www.youtube.com/@ByRuby12"> <img width="490" height="208" src="imagenes/panel_youtube.png" alt="Canal Principal"></a> <a href="https://youtube.com/@ByRuby12EXTRA"> <img src="imagenes/panel_youtube.png" alt="Canal Secundario"></a>
+<a href="https://www.youtube.com/@ByRuby12"> <img width="490" height="208" src="imagenes/panel_youtube.png" alt="Canal Principal"></a> <a href="https://youtube.com/@ByRuby12EXTRA"> <img width="490" height="208" src="imagenes/panel_youtube.png" alt="Canal Secundario"></a>
 
 <a href="https://instagram.com/ByRuby12"> <img src="imagenes/panel_instagram.png" alt="Instagram"></a> <a href="https://twitter.com/byruby12"> <img src="imagenes/panel_twitter.png" alt="Twitter"></a>
 
