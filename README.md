@@ -13,4 +13,4 @@
 
 ![Twitch](imagen3.jpg) ![Contacto](imagen3.jpg) ![PayPal](imagen3.jpg) ![Discord](imagen3.jpg) ![WebSite](imagen3.jpg)
 
-<img src="imagenes/panel_youtube.png" alt="Texto alternativo de la imagen" width="400" height="300">
+<img src="imagenes/panel_youtube.png" alt="Texto alternativo de la imagen" width="300" height="300">
