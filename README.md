@@ -11,4 +11,4 @@
 
 ![Canal Principal](imagenes/panel_youtube.png) ![Canal Secundario](imagenes/panel_youtube.png) ![Instagram](imagenes/panel_instagram.png) 
 ![Twitter](imagenes/panel_twitter.png) ![TikTok](imagenes/panel_tiktok.png) ![Twitch](imagenes/panel_twitch.png) ![Contacto](imagenes/panel_gmail.png) 
-![PayPal](imagenes/panel_paypal.png) ![Discord](imagenes/panel_discord.png) ![WebSite](imagenes/panel_website.png)
+![https://www.paypal.me/Byruby12](imagenes/panel_paypal.png) ![Discord](imagenes/panel_discord.png) ![WebSite](imagenes/panel_website.png)
