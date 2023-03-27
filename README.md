@@ -11,9 +11,9 @@
 
 <a href="https://www.youtube.com/@ByRuby12"> <img width="490" height="208" src="imagenes/panel_youtube.png" alt="Canal Principal"></a> <a href="https://youtube.com/@ByRuby12EXTRA"> <img width="490" height="208" src="imagenes/panel_youtube.png" alt="Canal Secundario"></a>
 
-<a href="https://instagram.com/ByRuby12"> <img src="imagenes/panel_instagram.png" alt="Instagram"></a> <a href="https://twitter.com/byruby12"> <img src="imagenes/panel_twitter.png" alt="Twitter"></a>
+<a href="https://instagram.com/ByRuby12"> <img width="490" height="208" src="imagenes/panel_instagram.png" alt="Instagram"></a> <a href="https://twitter.com/byruby12"> <img width="490" height="208" src="imagenes/panel_twitter.png" alt="Twitter"></a>
 
-<a href="http://vm.tiktok.com/byruby12"> <img src="imagenes/panel_twitch.png" alt="TikTok"></a> <a href="https://twitch.com/byruby12_official"> <img src="imagenes/panel_twitch.png" alt="Twitch"></a>
-<a href="mailto:byruby12.contacto@gmail.com"> <img src="imagenes/panel_gmail.png" alt="Contacto"></a> <a href="https://www.paypal.me/Byruby12"> <img src="imagenes/panel_paypal.png" alt="PayPal"></a>
+<a href="http://vm.tiktok.com/byruby12"> <img width="490" height="208" src="imagenes/panel_twitch.png" alt="TikTok"></a> <a href="https://twitch.com/byruby12_official"> <img width="490" height="208" src="imagenes/panel_twitch.png" alt="Twitch"></a>
+<a href="mailto:byruby12.contacto@gmail.com"> <img width="490" height="208" src="imagenes/panel_gmail.png" alt="Contacto"></a> <a href="https://www.paypal.me/Byruby12"> <img width="490" height="208" src="imagenes/panel_paypal.png" alt="PayPal"></a>
 
-<a href="https://www.youtube.com/@ByRuby12"> <img src="imagenes/panel_discord.png" alt="Discord"></a> <a href="https://comunidad-byruby12.jimdosite.com"> <img src="imagenes/panel_website.png" alt="WebSite"></a>
+<a href="https://www.youtube.com/@ByRuby12"> <img width="490" height="208" src="imagenes/panel_discord.png" alt="Discord"></a> <a href="https://comunidad-byruby12.jimdosite.com"> <img width="490" height="208" src="imagenes/panel_website.png" alt="WebSite"></a>
