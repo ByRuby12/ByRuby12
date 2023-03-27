@@ -12,3 +12,5 @@
 ![Canal Principal](imagenes/panel_youtube.png) ![Canal Secundario](imagen3.jpg) ![Instagram](imagen3.jpg) ![Twitter](imagen3.jpg) ![TikTok](imagen3.jpg)
 
 ![Twitch](imagen3.jpg) ![Contacto](imagen3.jpg) ![PayPal](imagen3.jpg) ![Discord](imagen3.jpg) ![WebSite](imagen3.jpg)
+
+<img src="imagenes/panel_youtube.png" alt="Texto alternativo de la imagen" width="400" height="300">
