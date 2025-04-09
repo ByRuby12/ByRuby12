@@ -4,7 +4,7 @@
 
 ### Hola, soy ByRuby12, un creador de contenido de videojuegos que sube videos y directos a las redes sociales para pasárselo bien y compartirlo con la audiencia. Llevo haciendo todo tipo de contenido desde hace 9 años desde la plataforma de YouTube y después de unos años me desplace a más redes sociales como Instagram, Twitter, TikTok y Twitch.
 
-### Aparte de este hobby que tengo, me dedico a programar en todo tipo de lenguajes como HTML, CSS, TAILWIND, BOOSTRAP, JS, JAVA, PHP, PYTHON, SQL y muchas más. También soy diseñador gráfico desde hace más de 6 años en PhotoShop, editor de videos y como último soy técnico en sistemas informáticos (Básicamente, todo lo relacionado con la informática, es lo que me apasiona en este mundillo).
+### Aparte de este hobby que tengo, me dedico a programar en todo tipo de lenguajes como HTML, CSS, TAILWIND, BOOSTRAP, JS, JAVA, PHP, PYTHON, SQL, VUE y muchas más. También soy diseñador gráfico desde hace más de 6 años en PhotoShop, editor de videos y como último soy técnico en sistemas informáticos (Básicamente, todo lo relacionado con la informática, es lo que me apasiona en este mundillo).
 
 #### Espero que os guste todos los repositorios de GitHub, os dejo por aqui todas mis redes sociales aquí abajo y cualquier cualquier cosa que necesiteis estoy por aquí. 
 
