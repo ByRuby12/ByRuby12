@@ -1,19 +1,88 @@
-# ByRuby12 - Creador de contenido de videojuegos y desarollador de aplicaciones web
+# ByRuby12 - Creador de contenido y desarrollador web
 
 ![Portada](imagenes/banner.png)
 
-### Hola, soy ByRuby12, un creador de contenido de videojuegos que sube videos y directos a las redes sociales para pasárselo bien y compartirlo con la audiencia. Llevo haciendo todo tipo de contenido desde hace 9 años desde la plataforma de YouTube y después de unos años me desplace a más redes sociales como Instagram, Twitter, TikTok y Twitch.
+## 👋 ¡Hola! Soy ByRuby12
 
-### Aparte de este hobby que tengo, me dedico a programar en todo tipo de lenguajes como HTML, CSS, TAILWIND, BOOSTRAP, JS, JAVA, PHP, PYTHON, SQL, VUE y muchas más. También soy diseñador gráfico desde hace más de 6 años en PhotoShop, editor de videos y como último soy técnico en sistemas informáticos (Básicamente, todo lo relacionado con la informática, es lo que me apasiona en este mundillo).
+Soy un apasionado creador de contenido de videojuegos y desarrollador de aplicaciones web. Desde hace más de 9 años, comparto mi diversión con la comunidad a través de plataformas como **YouTube**, **Twitch**, **TikTok**, **Instagram** y **Twitter**.
 
-#### Espero que os guste todos los repositorios de GitHub, os dejo por aqui todas mis redes sociales aquí abajo y cualquier cualquier cosa que necesiteis estoy por aquí. 
+Además de crear contenido, me dedico profesionalmente al mundo de la tecnología.
 
-<a href="https://www.youtube.com/@ByRuby12"> <img width="490" height="208" src="imagenes/panel_youtube.png" alt="Canal Principal"></a> <a href="https://youtube.com/@ByRuby12EXTRA"> <img width="490" height="208" src="imagenes/panel_youtube.png" alt="Canal Secundario"></a>
+---
 
-<a href="https://instagram.com/ByRuby12"> <img width="490" height="208" src="imagenes/panel_instagram.png" alt="Instagram"></a> <a href="https://twitter.com/byruby12"> <img width="490" height="208" src="imagenes/panel_twitter.png" alt="Twitter"></a>
+## 💻 ¿Qué hago?
 
-<a href="http://vm.tiktok.com/byruby12"> <img width="490" height="208" src="imagenes/panel_tiktok.png" alt="TikTok"></a> <a href="https://twitch.com/byruby12_official"> <img width="490" height="208" src="imagenes/panel_twitch.png" alt="Twitch"></a>
+### 🎮 Creador de contenido
+- Videos y directos de videojuegos
+- Series, gameplays y contenido variado
+- Más de 9 años de experiencia creando y editando
 
-<a href="mailto:byruby12.contacto@gmail.com"> <img width="490" height="208" src="imagenes/panel_gmail.png" alt="Contacto"></a> <a href="https://www.paypal.me/Byruby12"> <img width="490" height="208" src="imagenes/panel_paypal.png" alt="PayPal"></a>
+### 🧑‍💻 Desarrollo web y programación
+- Experiencia en múltiples lenguajes:
+  - HTML, CSS, Tailwind, Bootstrap
+  - JavaScript, Java, PHP, Python
+  - SQL, Vue y más...
+- Creación de sitios web y aplicaciones personalizadas
 
-<a href="https://www.youtube.com/@ByRuby12"> <img width="490" height="208" src="imagenes/panel_discord.png" alt="Discord"></a> <a href="https://comunidad-byruby12.jimdosite.com"> <img width="490" height="208" src="imagenes/panel_website.png" alt="WebSite"></a>
+### 🎨 Diseño gráfico y edición
+- Más de 6 años de experiencia en **Photoshop**
+- Edición de video para redes sociales y YouTube
+
+### 🛠️ Técnico en sistemas
+- Formación y experiencia en soporte informático
+- Mantenimiento, instalación y optimización de sistemas
+
+---
+
+## 📂 Repositorios
+
+Aquí encontrarás una colección de proyectos y recursos que comparto con la comunidad. ¡Espero que te resulten útiles o interesantes!
+
+---
+
+## 🌐 Encuéntrame en:
+
+<div align="center">
+
+<a href="https://www.youtube.com/@ByRuby12">
+  <img width="45%" src="imagenes/panel_youtube.png" alt="Canal Principal">
+</a>
+<a href="https://youtube.com/@ByRuby12EXTRA">
+  <img width="45%" src="imagenes/panel_youtube.png" alt="Canal Secundario">
+</a>
+
+<a href="https://instagram.com/ByRuby12">
+  <img width="45%" src="imagenes/panel_instagram.png" alt="Instagram">
+</a>
+<a href="https://twitter.com/byruby12">
+  <img width="45%" src="imagenes/panel_twitter.png" alt="Twitter">
+</a>
+
+<a href="http://vm.tiktok.com/byruby12">
+  <img width="45%" src="imagenes/panel_tiktok.png" alt="TikTok">
+</a>
+<a href="https://twitch.com/byruby12_official">
+  <img width="45%" src="imagenes/panel_twitch.png" alt="Twitch">
+</a>
+
+<a href="mailto:byruby12.contacto@gmail.com">
+  <img width="45%" src="imagenes/panel_gmail.png" alt="Correo de contacto">
+</a>
+<a href="https://www.paypal.me/Byruby12">
+  <img width="45%" src="imagenes/panel_paypal.png" alt="Donaciones">
+</a>
+
+<a href="https://www.youtube.com/@ByRuby12">
+  <img width="45%" src="imagenes/panel_discord.png" alt="Discord">
+</a>
+<a href="https://comunidad-byruby12.jimdosite.com">
+  <img width="45%" src="imagenes/panel_website.png" alt="Sitio web">
+</a>
+
+</div>
+
+---
+
+## 🤝 ¡Estoy aquí para ayudarte!
+
+Si necesitas algo o quieres contactar conmigo, no dudes en escribirme. ¡Gracias por visitar mi perfil y echar un vistazo a mis proyectos!
