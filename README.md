@@ -24,6 +24,15 @@ Además de crear contenido, me dedico profesionalmente al mundo de la tecnologí
   - SQL, Vue y más...
 - Creación de sitios web y aplicaciones personalizadas
 
+### 🧠 Tecnologías y herramientas avanzadas
+- Conocimientos en inteligencia artificial (IA)
+- Uso de bases de datos como MariaDB
+- Desarrollo backend con NestJS
+- Maquetación moderna con TailwindCSS
+- Bots automatizados:
+  - 🤖 Telegram Bot
+  - 🤖 Discord Bot
+
 ### 🎨 Diseño gráfico y edición
 - Más de 6 años de experiencia en **Photoshop**
 - Edición de video para redes sociales y YouTube
