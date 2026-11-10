@@ -1,23 +1,28 @@
+<a id="top"></a>
+
+<!-- Perfil de ByRuby12. Imágenes enlazadas a los archivos existentes en main/imagenes. -->
 <div align="center">
 
-<img src="imagenes/banner.png" alt="ByRuby12 — Código, diseño y comunidad. Desarrollo web, automatización e IA y gaming." width="100%" />
+<img src="https://raw.githubusercontent.com/ByRuby12/ByRuby12/main/imagenes/banner.png" alt="ByRuby12 — Código, diseño y comunidad" width="100%" />
 
-# Soy Tomás Cano · ByRuby12
-
-### Desarrollo web · Automatización e IA · Diseño digital
-
-Convierto ideas en webs, herramientas y experiencias que se pueden usar.
-También creo contenido de videojuegos y construyo proyectos para mi comunidad.
-
-**Madrid, España** · Frontend, backend, datos y creatividad
-
-[Ver portfolio](https://byruby12.github.io/Portfolio-Tomas/) · [Descargar CV](https://github.com/ByRuby12/Portfolio-Tomas/raw/refs/heads/main/docs/CV%20TOMAS%2020262027%20NEW.pdf) · [Explorar servicios](https://byruby12.github.io/ByRuby12-Servicios/) · [Contactar](mailto:byruby12.contacto@gmail.com)
+<h1>Hola, soy Tomás Cano <span>👋</span></h1>
+<h3>Desarrollo web · Automatización e IA · Diseño digital</h3>
+<p>De la idea a la interfaz. De los datos a la solución.<br />Código, creatividad y comunidad con identidad propia.</p>
+<p><strong>📍 Madrid, España &nbsp; / &nbsp; 💻 ByRuby12</strong></p>
+<p>
+<a href="#proyectos-destacados">Proyectos</a> &nbsp; · &nbsp;
+<a href="#tecnologias">Tecnologías</a> &nbsp; · &nbsp;
+<a href="#servicios-digitales">Servicios</a> &nbsp; · &nbsp;
+<a href="#comunidad">Comunidad</a> &nbsp; · &nbsp;
+<a href="#contacto">Contacto</a>
+</p>
+<p><a href="https://github.com/ByRuby12/Portfolio-Tomas/raw/refs/heads/main/docs/CV%20TOMAS%2020262027%20NEW.pdf"><strong>Descargar mi CV ↗</strong></a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/canoo18/">LinkedIn ↗</a></p>
 
 </div>
 
 ---
 
-## De una idea a algo que funciona
+## ✦ De una idea a algo que funciona
 
 Soy **Tomás Cano Nieto**, desarrollador web con formación en **Desarrollo de Aplicaciones Web** y **Sistemas Microinformáticos y Redes**. Combino programación, diseño y conocimiento de la operativa de un negocio: desde una interfaz responsive hasta el panel de gestión, los datos y las tareas del día a día.
 
@@ -25,12 +30,16 @@ He trabajado con comercio electrónico, CRM, inventario, ticketing, bots, APIs, 
 
 Mi otra gran parte es **ByRuby12**: más de nueve años creando contenido, compartiendo videojuegos y desarrollando ideas para una comunidad online.
 
-<div align="center">
-<a href="https://byruby12.github.io/ByRuby12-Servicios/"><img src="imagenes/panel_servicios.png" alt="Servicios digitales — Web, diseño e IA" width="48%" /></a>
-<a href="https://byruby12.github.io/Portfolio-Tomas/"><img src="imagenes/panel_portfolio.png" alt="Portfolio y CV — Conoce mi trabajo" width="48%" /></a>
-</div>
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://byruby12.github.io/ByRuby12-Servicios/"><img src="https://raw.githubusercontent.com/ByRuby12/ByRuby12/main/imagenes/panel_servicios.png" alt="Servicios digitales — Web, diseño e IA" width="100%" /></a></td>
+<td width="50%" align="center"><a href="https://byruby12.github.io/Portfolio-Tomas/"><img src="https://raw.githubusercontent.com/ByRuby12/ByRuby12/main/imagenes/panel_portfolio.png" alt="Portfolio y CV — Conoce mi trabajo" width="100%" /></a></td>
+</tr>
+</table>
 
-## Qué puedo construir
+---
+
+## ⚡ Qué puedo construir
 
 | Área | Aplicaciones |
 | :--- | :--- |
@@ -40,7 +49,11 @@ Mi otra gran parte es **ByRuby12**: más de nueve años creando contenido, compa
 | **Diseño y contenido** | Identidad para creadores, banners, miniaturas, cartelería, retoque fotográfico y edición de vídeo. |
 | **Sistemas y soporte** | Configuración de equipos, redes, mantenimiento y resolución de incidencias. |
 
-## Proyectos con nombre propio
+---
+
+<a id="proyectos-destacados"></a>
+
+## 🚀 Proyectos destacados
 
 Una selección de repositorios para conocer mi trabajo. Las funciones y el estado de cada proyecto se detallan en su repositorio.
 
@@ -69,7 +82,11 @@ Una selección de repositorios para conocer mi trabajo. Las funciones y el estad
 
 </details>
 
-## Mi caja de herramientas
+---
+
+<a id="tecnologias"></a>
+
+## 🛠️ Tecnologías y herramientas
 
 Tecnologías con las que he trabajado en proyectos profesionales, personales o de formación.
 
@@ -79,7 +96,7 @@ Tecnologías con las que he trabajado en proyectos profesionales, personales o d
 | Vue · Tailwind CSS · Bootstrap | NestJS · SQL · MariaDB | Telegram · Discord |
 | Diseño responsive | Firebase · Firestore | Photoshop · Edición de vídeo |
 
-## Experiencia que se traduce en soluciones
+## 🧩 Experiencia que suma
 
 - **Desarrollo y operación de tiendas online:** páginas corporativas, e-commerce, CRM, catálogo, stock, inventario y logística.
 - **Automatización de procesos:** bots, APIs de IA, tratamiento de datos públicos y clasificación de solicitudes.
@@ -89,7 +106,11 @@ Tecnologías con las que he trabajado en proyectos profesionales, personales o d
 
 [Consulta mi trayectoria completa y formación en el portfolio →](https://byruby12.github.io/Portfolio-Tomas/)
 
-## Servicios digitales · ByRuby12
+---
+
+<a id="servicios-digitales"></a>
+
+## ✳️ Servicios digitales · ByRuby12
 
 Además de mis proyectos, ofrezco servicios para negocios y creadores. En la web puedes consultar ejemplos, condiciones, alcance y precios actualizados.
 
@@ -103,41 +124,56 @@ Además de mis proyectos, ofrezco servicios para negocios y creadores. En la web
 
 **[Explorar los diez servicios →](https://byruby12.github.io/ByRuby12-Servicios/)**
 
-## Así me gusta trabajar
+## 🧭 Así me gusta trabajar
 
 **Entender → Diseñar → Desarrollar → Probar → Mejorar**
 
 Acordar el alcance, ordenar la información y construir una experiencia útil. Cuidar la interfaz, los datos y lo que pasa detrás. Escuchar, probar y ajustar lo que haga falta.
 
-## Fuera del editor, también hay juego
+---
+
+<a id="comunidad"></a>
+
+## 🎮 Código, juegos y comunidad
 
 Me gustan **GTA V, Minecraft, The Last of Us, Call of Duty, Payday 2 y Super Mario Galaxy**. También la realidad virtual con **Meta Quest 3** y la conducción con volante. Ese lado creativo está presente en mis vídeos, directos, diseños y proyectos de comunidad.
 
-<div align="center">
-<a href="https://www.youtube.com/@ByRuby12"><img src="imagenes/panel_youtube.png" alt="YouTube — Canal principal ByRuby12" width="48%" /></a>
-<a href="https://www.youtube.com/@ByRuby12EXTRA"><img src="imagenes/panel_youtube_extra.png" alt="YouTube Extra — Canal secundario" width="48%" /></a>
-<br />
-<a href="https://www.instagram.com/ByRuby12/"><img src="imagenes/panel_instagram.png" alt="Instagram — Diseños e ideas" width="48%" /></a>
-<a href="https://www.twitch.tv/byruby12_official"><img src="imagenes/panel_twitch.png" alt="Twitch — Directos" width="48%" /></a>
-<br />
-<a href="https://www.tiktok.com/@byruby12"><img src="imagenes/panel_tiktok.png" alt="TikTok — Vídeos cortos" width="48%" /></a>
-<a href="https://x.com/byruby12"><img src="imagenes/panel_x.png" alt="X / Twitter — Novedades" width="48%" /></a>
-<br />
-<a href="https://comunidad-byruby12.jimdosite.com"><img src="imagenes/panel_comunidad.png" alt="Comunidad ByRuby12" width="48%" /></a>
-<a href="https://www.paypal.me/Byruby12"><img src="imagenes/panel_apoyo.png" alt="Apoya el proyecto de ByRuby12 en PayPal" width="48%" /></a>
-</div>
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://www.youtube.com/@ByRuby12"><img src="https://raw.githubusercontent.com/ByRuby12/ByRuby12/main/imagenes/panel_youtube.png" alt="YouTube — Canal principal ByRuby12" width="100%" /></a></td>
+<td width="50%" align="center"><a href="https://www.youtube.com/@ByRuby12EXTRA"><img src="https://raw.githubusercontent.com/ByRuby12/ByRuby12/main/imagenes/panel_youtube_extra.png" alt="YouTube Extra — Canal secundario" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://www.instagram.com/ByRuby12/"><img src="https://raw.githubusercontent.com/ByRuby12/ByRuby12/main/imagenes/panel_instagram.png" alt="Instagram — Diseños e ideas" width="100%" /></a></td>
+<td width="50%" align="center"><a href="https://www.twitch.tv/byruby12_official"><img src="https://raw.githubusercontent.com/ByRuby12/ByRuby12/main/imagenes/panel_twitch.png" alt="Twitch — Directos" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://www.tiktok.com/@byruby12"><img src="https://raw.githubusercontent.com/ByRuby12/ByRuby12/main/imagenes/panel_tiktok.png" alt="TikTok — Vídeos cortos" width="100%" /></a></td>
+<td width="50%" align="center"><a href="https://x.com/byruby12"><img src="https://raw.githubusercontent.com/ByRuby12/ByRuby12/main/imagenes/panel_x.png" alt="X / Twitter — Novedades" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://comunidad-byruby12.jimdosite.com"><img src="https://raw.githubusercontent.com/ByRuby12/ByRuby12/main/imagenes/panel_comunidad.png" alt="Comunidad ByRuby12" width="100%" /></a></td>
+<td width="50%" align="center"><a href="https://www.paypal.me/Byruby12"><img src="https://raw.githubusercontent.com/ByRuby12/ByRuby12/main/imagenes/panel_apoyo.png" alt="Apoya el proyecto de ByRuby12" width="100%" /></a></td>
+</tr>
+</table>
 
-## ¿Tienes una idea en mente?
+---
+
+<a id="contacto"></a>
+
+## 🤝 Tu próxima idea empieza aquí
 
 Si quieres crear una web, automatizar una tarea, desarrollar una herramienta o dar forma a tu identidad digital, cuéntame qué necesitas.
 
 <div align="center">
-<a href="mailto:byruby12.contacto@gmail.com"><img src="imagenes/panel_contacto.png" alt="Hablemos — Enviar correo a ByRuby12" width="75%" /></a>
+<a href="mailto:byruby12.contacto@gmail.com"><img src="https://raw.githubusercontent.com/ByRuby12/ByRuby12/main/imagenes/panel_contacto.png" alt="Hablemos — Enviar correo a ByRuby12" width="80%" /></a>
 
 **[byruby12.contacto@gmail.com](mailto:byruby12.contacto@gmail.com)**
 
 [LinkedIn](https://www.linkedin.com/in/canoo18/) · [Portfolio](https://byruby12.github.io/Portfolio-Tomas/) · [Servicios](https://byruby12.github.io/ByRuby12-Servicios/)
 
-*Gracias por pasarte por mi rincón de código, diseño y comunidad.*
+<sub>ByRuby12 · Código, diseño y comunidad.</sub>
+
+<a href="#top">Volver arriba ↑</a>
 
 </div>
