@@ -282,7 +282,7 @@ Me gustan **GTA V, Minecraft, The Last of Us, Call of Duty, Payday 2 y Super Mar
 
 <table>
 <tr>
-<td width="50%" align="center"><a href="https://discord.gg/pQsV3UsHEx"><img src="https://raw.githubusercontent.com/ByRuby12/ByRuby12/main/imagenes/panel_comunidad.webp?v=leidersrp" alt="Discord de LeidersRP — GTA V Roleplay para PS4 y PS5" width="100%" /></a></td>
+<td width="50%" align="center"><a href="https://discord.gg/yV68Vz78tA"><img src="https://raw.githubusercontent.com/ByRuby12/ByRuby12/main/imagenes/panel_comunidad.webp?v=byruby12-discord" alt="Mi comunidad de Discord — ByRuby12" width="100%" /></a></td>
 <td width="50%" align="center"><a href="https://www.paypal.me/Byruby12"><img src="https://raw.githubusercontent.com/ByRuby12/ByRuby12/main/imagenes/panel_apoyo.webp" alt="Apoya el proyecto de ByRuby12" width="100%" /></a></td>
 </tr>
 </table>
