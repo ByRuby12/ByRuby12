@@ -1,169 +1,143 @@
-# ByRuby12 - Creador de contenido y desarrollador web
-
-![Portada](imagenes/banner.png)
-
-## 👋 ¡Hola! Soy ByRuby12
-
-Soy un apasionado creador de contenido de videojuegos, desarrollador web y creador de proyectos digitales. Desde hace más de 9 años comparto contenido y experiencias con la comunidad a través de **YouTube, Twitch, TikTok, Instagram y Twitter**.
-
-Mi perfil combina dos mundos que me apasionan: **la creación de contenido y la tecnología**. Me gusta convertir ideas en proyectos funcionales, cuidar el diseño y seguir aprendiendo nuevas herramientas para mejorar cada proyecto.
-
----
-
-## 💻 ¿Qué hago?
-
-### 🎮 Creación de contenido
-- Videos, directos y gameplays de videojuegos
-- Contenido para YouTube, Twitch, TikTok y redes sociales
-- Edición de vídeo y creación de contenido digital
-- Más de 9 años creando contenido y compartiendo proyectos con la comunidad
-
-### 🌐 Desarrollo web
-- Desarrollo de páginas web modernas, responsive y adaptadas a móviles
-- Menús digitales para restaurantes y negocios mediante QR
-- Webs corporativas y páginas personalizadas
-- Sistemas de gestión y administración
-- Integración de formularios, redes sociales, mapas y servicios externos
-- Diseño de interfaces pensando tanto en la estética como en la experiencia de usuario
-
-### 🧑‍💻 Programación
-Trabajo con diferentes tecnologías y lenguajes, entre ellos:
-- **HTML5, CSS3 y JavaScript**
-- **TailwindCSS y Bootstrap**
-- **Java, PHP y Python**
-- **SQL y MariaDB**
-- **Vue**
-- **NestJS**
-- **Firebase / Firestore**
-- APIs e integraciones con servicios externos
-
-### 🤖 Automatización y bots
-También desarrollo herramientas para automatizar tareas y crear sistemas para comunidades:
-- Discord Bots
-- Telegram Bots
-- Sistemas de roles y automatizaciones
-- Sistemas de inventario, usuarios y economía
-- Integración con bases de datos y servicios web
-
-### 🎨 Diseño y edición
-- Más de 6 años de experiencia con **Photoshop**
-- Diseño de banners, carteles, interfaces y material para redes sociales
-- Edición de vídeo
-- Creación de recursos gráficos para proyectos digitales
-
-### 🖥️ Sistemas y soporte informático
-- Formación en sistemas informáticos
-- Instalación y mantenimiento
-- Configuración y optimización de equipos
-- Resolución de problemas técnicos
-
----
-
-## 🚀 Algunos de mis proyectos
-
-### 🍽️ Menús digitales para restaurantes
-
-Desarrollo soluciones de **cartas digitales mediante código QR**, pensadas para restaurantes, bares y negocios de hostelería.
-
-Entre las funcionalidades que puedo integrar se encuentran:
-- Categorías y productos
-- Precios, descripciones y alérgenos
-- Fotografías de productos
-- Información del negocio
-- Horarios, dirección y contacto
-- Redes sociales
-- Google Maps
-- Varios idiomas
-- Modo claro y oscuro
-- Servicios de delivery como **Just Eat, Uber Eats y Glovo**
-- Sistemas TPV y pedidos mediante QR
-
-Algunos ejemplos de proyectos:
-
-- **La Tortillería** — menú digital responsive con Firebase y sistema de administración.
-- **BarNuevo** — menú digital configurable para hostelería.
-- **CartaWebVersiones** — colección de versiones y recursos para cartas digitales.
-
-### 📱 Expositores NFC para negocios
-
-También trabajo con soluciones físicas y digitales mediante **NFC**, creando expositores configurados para facilitar el acceso de los clientes a redes sociales, reseñas, páginas web y otros recursos del negocio.
-
-### 🎮 LeidersRP
-
-Uno de mis proyectos más importantes es **LeidersRP**, un proyecto de GTA V Roleplay para **PS4 y PS5**.
-
-El proyecto reúne desarrollo web, bots, sistemas de usuarios, economía, trabajos, inventarios, DNI, herramientas para Policía/EMS y diferentes sistemas destinados a gestionar una comunidad de roleplay.
-
-### 🧪 Proyectos de aprendizaje y portfolio
-
-Mi GitHub también reúne proyectos realizados durante mi formación y aprendizaje en **Desarrollo de Aplicaciones Web (DAW)**, además de pruebas, experimentos, aplicaciones y proyectos personales.
-
----
-
-## 🛠️ Mi enfoque
-
-Me gusta trabajar en proyectos en los que pueda combinar:
-
-**💡 Idea → 🎨 Diseño → 💻 Desarrollo → 🧪 Pruebas → 🚀 Publicación**
-
-No me limito únicamente a escribir código: también me interesa entender el proyecto completo, desde cómo se presenta visualmente hasta cómo funciona internamente.
-
----
-
-## 📂 Repositorios
-
-Aquí encontrarás una colección de proyectos, pruebas, recursos y aplicaciones que he desarrollado o en los que he trabajado.
-
-Cada repositorio representa una parte de mi aprendizaje y evolución como desarrollador.
-
----
-
-## 🌐 Encuéntrame en:
-
 <div align="center">
 
-<a href="https://www.youtube.com/@ByRuby12">
-  <img width="45%" src="imagenes/panel_youtube.png" alt="Canal Principal">
-</a>
-<a href="https://youtube.com/@ByRuby12EXTRA">
-  <img width="45%" src="imagenes/panel_youtube.png" alt="Canal Secundario">
-</a>
+<img src="imagenes/banner.png" alt="ByRuby12 — Código, diseño y comunidad. Desarrollo web, automatización e IA y gaming." width="100%" />
 
-<a href="https://instagram.com/ByRuby12">
-  <img width="45%" src="imagenes/panel_instagram.png" alt="Instagram">
-</a>
-<a href="https://twitter.com/byruby12">
-  <img width="45%" src="imagenes/panel_twitter.png" alt="Twitter">
-</a>
+# Soy Tomás Cano · ByRuby12
 
-<a href="http://vm.tiktok.com/byruby12">
-  <img width="45%" src="imagenes/panel_tiktok.png" alt="TikTok">
-</a>
-<a href="https://twitch.com/byruby12_official">
-  <img width="45%" src="imagenes/panel_twitch.png" alt="Twitch">
-</a>
+### Desarrollo web · Automatización e IA · Diseño digital
 
-<a href="mailto:byruby12.contacto@gmail.com">
-  <img width="45%" src="imagenes/panel_gmail.png" alt="Correo de contacto">
-</a>
-<a href="https://www.paypal.me/Byruby12">
-  <img width="45%" src="imagenes/panel_paypal.png" alt="Donaciones">
-</a>
+Convierto ideas en webs, herramientas y experiencias que se pueden usar.
+También creo contenido de videojuegos y construyo proyectos para mi comunidad.
 
-<a href="https://www.youtube.com/@ByRuby12">
-  <img width="45%" src="imagenes/panel_discord.png" alt="Discord">
-</a>
-<a href="https://comunidad-byruby12.jimdosite.com">
-  <img width="45%" src="imagenes/panel_website.png" alt="Sitio web">
-</a>
+**Madrid, España** · Frontend, backend, datos y creatividad
+
+[Ver portfolio](https://byruby12.github.io/Portfolio-Tomas/) · [Descargar CV](https://github.com/ByRuby12/Portfolio-Tomas/raw/refs/heads/main/docs/CV%20TOMAS%2020262027%20NEW.pdf) · [Explorar servicios](https://byruby12.github.io/ByRuby12-Servicios/) · [Contactar](mailto:byruby12.contacto@gmail.com)
 
 </div>
 
 ---
 
-## 🤝 ¿Tienes un proyecto en mente?
+## De una idea a algo que funciona
 
-Si necesitas una página web, un menú digital para tu negocio, una solución personalizada, automatizaciones, un bot o simplemente quieres hablar sobre un proyecto, puedes contactar conmigo.
+Soy **Tomás Cano Nieto**, desarrollador web con formación en **Desarrollo de Aplicaciones Web** y **Sistemas Microinformáticos y Redes**. Combino programación, diseño y conocimiento de la operativa de un negocio: desde una interfaz responsive hasta el panel de gestión, los datos y las tareas del día a día.
 
-**Gracias por visitar mi perfil y echar un vistazo a mis proyectos. 🚀**
+He trabajado con comercio electrónico, CRM, inventario, ticketing, bots, APIs, automatizaciones y herramientas de Inteligencia Artificial. Me interesa entender el problema, construir una solución clara y cuidar tanto su funcionamiento como su presentación.
 
+Mi otra gran parte es **ByRuby12**: más de nueve años creando contenido, compartiendo videojuegos y desarrollando ideas para una comunidad online.
+
+<div align="center">
+<a href="https://byruby12.github.io/ByRuby12-Servicios/"><img src="imagenes/panel_servicios.png" alt="Servicios digitales — Web, diseño e IA" width="48%" /></a>
+<a href="https://byruby12.github.io/Portfolio-Tomas/"><img src="imagenes/panel_portfolio.png" alt="Portfolio y CV — Conoce mi trabajo" width="48%" /></a>
+</div>
+
+## Qué puedo construir
+
+| Área | Aplicaciones |
+| :--- | :--- |
+| **Web y e-commerce** | Webs responsive, tiendas online, cartas digitales con QR, páginas corporativas y paneles de administración. |
+| **Gestión y datos** | CRM, inventario, stock, ticketing, bases de datos e integraciones entre herramientas. |
+| **Automatización e IA** | Bots de Telegram y Discord, clasificación de solicitudes, conexión con APIs y automatización de procesos. |
+| **Diseño y contenido** | Identidad para creadores, banners, miniaturas, cartelería, retoque fotográfico y edición de vídeo. |
+| **Sistemas y soporte** | Configuración de equipos, redes, mantenimiento y resolución de incidencias. |
+
+## Proyectos con nombre propio
+
+Una selección de repositorios para conocer mi trabajo. Las funciones y el estado de cada proyecto se detallan en su repositorio.
+
+| Proyecto | Qué encontrarás | Código |
+| :--- | :--- | :---: |
+| **Portfolio personal** | Presentación, trayectoria, proyectos y acceso al CV. | [↗](https://github.com/ByRuby12/Portfolio-Tomas) |
+| **ByRuby12 · Servicios** | Catálogo de servicios de desarrollo web, diseño e identidad digital. | [↗](https://github.com/ByRuby12/ByRuby12-Servicios) |
+| **La Tortillería** | Carta digital para hostelería con experiencia responsive y administración. | [↗](https://github.com/ByRuby12/LaTortilleria) |
+| **Bohio Bar** | Proyecto de carta web para un negocio de hostelería. | [↗](https://github.com/ByRuby12/BohioBar) |
+| **CartaWebVersiones** | Versiones y recursos para cartas digitales. | [↗](https://github.com/ByRuby12/CartaWebVersiones) |
+| **AyuntMadrid** | Bot de Telegram con IA para avisos y peticiones ciudadanas. | [↗](https://github.com/ByRuby12/AyuntMadrid) |
+| **StockageTienda** | Herramienta web para organizar inventario y operaciones de tienda. | [↗](https://github.com/ByRuby12/StockageTienda) |
+| **LeidersRP** | Plataforma y herramientas para una comunidad de GTA V Roleplay en PS4 y PS5. | [↗](https://github.com/ByRuby12/LeidersRP) |
+
+<details>
+<summary><strong>También hay aprendizaje, juegos y experimentos</strong></summary>
+
+- [TFG DAW · Deportistas del Barrio](https://github.com/ByRuby12/TFG-DAW): proyecto de fin de ciclo de Desarrollo de Aplicaciones Web.
+- [Bibliotech DAW](https://github.com/ByRuby12/Bibliotech-DAW): proyecto académico desarrollado en Java.
+- [WebUniversal](https://github.com/ByRuby12/WebUniversal): proyecto web para negocios.
+- [TPV Hostelería](https://github.com/ByRuby12/TPV-Hosteleria): proyecto relacionado con la gestión de hostelería.
+- [CremEsports](https://github.com/ByRuby12/CremEsports): mi primera página web.
+- [Videojuegos HTML](https://github.com/ByRuby12/Videojuegos-HTML) y [Processing](https://github.com/ByRuby12/VideoJuegos-Processing): minijuegos y experimentos.
+- [PolloLoco](https://github.com/ByRuby12/PolloLoco): proyecto de juego web.
+- [Más repositorios](https://github.com/ByRuby12?tab=repositories): el resto de mi recorrido.
+
+</details>
+
+## Mi caja de herramientas
+
+Tecnologías con las que he trabajado en proyectos profesionales, personales o de formación.
+
+| Frontend | Backend y datos | Integraciones y diseño |
+| :--- | :--- | :--- |
+| HTML5 · CSS3 · JavaScript | PHP · Python · Java | APIs REST · OpenAI API |
+| Vue · Tailwind CSS · Bootstrap | NestJS · SQL · MariaDB | Telegram · Discord |
+| Diseño responsive | Firebase · Firestore | Photoshop · Edición de vídeo |
+
+## Experiencia que se traduce en soluciones
+
+- **Desarrollo y operación de tiendas online:** páginas corporativas, e-commerce, CRM, catálogo, stock, inventario y logística.
+- **Automatización de procesos:** bots, APIs de IA, tratamiento de datos públicos y clasificación de solicitudes.
+- **Trabajo con negocios y comunidades:** herramientas para hostelería, comercio, creadores de contenido y roleplay.
+- **Diseño y comunicación:** más de seis años utilizando Photoshop, además de banners, material gráfico y contenido audiovisual.
+- **Base técnica:** formación en sistemas y redes, soporte a usuarios y desarrollo de aplicaciones web.
+
+[Consulta mi trayectoria completa y formación en el portfolio →](https://byruby12.github.io/Portfolio-Tomas/)
+
+## Servicios digitales · ByRuby12
+
+Además de mis proyectos, ofrezco servicios para negocios y creadores. En la web puedes consultar ejemplos, condiciones, alcance y precios actualizados.
+
+| Para tu negocio | Para tu marca |
+| :--- | :--- |
+| Tienda online completa | Pack Creador: identidad y recursos para redes |
+| Web profesional desde cero | Carteles, flyers y cartas |
+| Contactos para tu negocio en Excel | Retoque y edición de fotos |
+| Mantenimiento y mejoras web | Tu marca a lo grande: publicidad de gran formato |
+| Universal Works | Tu local ahora en digital: web y carta QR |
+
+**[Explorar los diez servicios →](https://byruby12.github.io/ByRuby12-Servicios/)**
+
+## Así me gusta trabajar
+
+**Entender → Diseñar → Desarrollar → Probar → Mejorar**
+
+Acordar el alcance, ordenar la información y construir una experiencia útil. Cuidar la interfaz, los datos y lo que pasa detrás. Escuchar, probar y ajustar lo que haga falta.
+
+## Fuera del editor, también hay juego
+
+Me gustan **GTA V, Minecraft, The Last of Us, Call of Duty, Payday 2 y Super Mario Galaxy**. También la realidad virtual con **Meta Quest 3** y la conducción con volante. Ese lado creativo está presente en mis vídeos, directos, diseños y proyectos de comunidad.
+
+<div align="center">
+<a href="https://www.youtube.com/@ByRuby12"><img src="imagenes/panel_youtube.png" alt="YouTube — Canal principal ByRuby12" width="48%" /></a>
+<a href="https://www.youtube.com/@ByRuby12EXTRA"><img src="imagenes/panel_youtube_extra.png" alt="YouTube Extra — Canal secundario" width="48%" /></a>
+<br />
+<a href="https://www.instagram.com/ByRuby12/"><img src="imagenes/panel_instagram.png" alt="Instagram — Diseños e ideas" width="48%" /></a>
+<a href="https://www.twitch.tv/byruby12_official"><img src="imagenes/panel_twitch.png" alt="Twitch — Directos" width="48%" /></a>
+<br />
+<a href="https://www.tiktok.com/@byruby12"><img src="imagenes/panel_tiktok.png" alt="TikTok — Vídeos cortos" width="48%" /></a>
+<a href="https://x.com/byruby12"><img src="imagenes/panel_x.png" alt="X / Twitter — Novedades" width="48%" /></a>
+<br />
+<a href="https://comunidad-byruby12.jimdosite.com"><img src="imagenes/panel_comunidad.png" alt="Comunidad ByRuby12" width="48%" /></a>
+<a href="https://www.paypal.me/Byruby12"><img src="imagenes/panel_apoyo.png" alt="Apoya el proyecto de ByRuby12 en PayPal" width="48%" /></a>
+</div>
+
+## ¿Tienes una idea en mente?
+
+Si quieres crear una web, automatizar una tarea, desarrollar una herramienta o dar forma a tu identidad digital, cuéntame qué necesitas.
+
+<div align="center">
+<a href="mailto:byruby12.contacto@gmail.com"><img src="imagenes/panel_contacto.png" alt="Hablemos — Enviar correo a ByRuby12" width="75%" /></a>
+
+**[byruby12.contacto@gmail.com](mailto:byruby12.contacto@gmail.com)**
+
+[LinkedIn](https://www.linkedin.com/in/canoo18/) · [Portfolio](https://byruby12.github.io/Portfolio-Tomas/) · [Servicios](https://byruby12.github.io/ByRuby12-Servicios/)
+
+*Gracias por pasarte por mi rincón de código, diseño y comunidad.*
+
+</div>
